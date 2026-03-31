@@ -80,7 +80,8 @@ export default function Home() {
                 <div className="space-y-2">
                   <h3 className="text-wedding-olive text-2xl font-bold uppercase tracking-tighter">A Data</h3>
                   <div className="h-px w-12 bg-wedding-gold/30" />
-                  <p className="text-wedding-olive/60 font-sans text-sm tracking-[0.2em] uppercase pt-2">A Confirmar Brevemente</p>
+                  <p className="text-wedding-olive font-sans text-xl font-bold tracking-tight pt-1">25 de Julho</p>
+                  <p className="text-wedding-olive/60 font-sans text-sm tracking-[0.2em] uppercase">2026</p>
                 </div>
               </motion.div>
 
@@ -94,7 +95,8 @@ export default function Home() {
                 <div className="space-y-2">
                   <h3 className="text-wedding-olive text-2xl font-bold uppercase tracking-tighter">O Local</h3>
                   <div className="h-px w-12 bg-wedding-gold/30" />
-                  <p className="text-wedding-olive/60 font-sans text-sm tracking-[0.2em] uppercase pt-2">Luanda, Angola</p>
+                  <p className="text-wedding-olive font-sans text-base font-bold tracking-tight pt-1">Salão TOKY-NOKY</p>
+                  <p className="text-wedding-olive/60 font-sans text-sm tracking-[0.2em] uppercase">Morro Bento • Luanda</p>
                 </div>
               </motion.div>
             </motion.div>
